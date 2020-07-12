@@ -1,10 +1,19 @@
 body {
   background-color: #232425;
-  padding: 1rem;
 }
+
+.Slider-Container {
+  margin: 0 0.75rem;
+}
+
 .App {
   max-width: 738px;
   margin: 1rem auto;
+}
+
+h1 {
+  font-size: calc(24px + 1.8vw);
+  font-weight: normal;
 }
 
 .half {
